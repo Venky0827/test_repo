@@ -5,4 +5,4 @@
   tasks:
     - name: Sample task
       debug:
-        msg: "Test msg"
+        msg: "{{name}}"
